@@ -9,7 +9,6 @@
 
 ###
 
-<img align="right" height="120" src="https://cdn.discordapp.com/attachments/604271320452038657/994012030434553948/FreshEminentIchthyosaurs-mobile.gif"  />
 
 ###
 
