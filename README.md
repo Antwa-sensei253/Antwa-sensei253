@@ -126,7 +126,7 @@
 
 <li>
 <a href="mailto:ahmed.qwerty253@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  Antwa-sensei253-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/gmail:  Ahmed Abdulrahim-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
 	
