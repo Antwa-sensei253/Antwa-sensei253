@@ -22,7 +22,7 @@
 - Playing With linux at spare time
 - Currently learning Web Development & Machine learning by Self
 - Personal website [link](BLANK)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://ibb.co/VtZmBZX)
+- I’m currently open for an Intern or a new job opportunity, this is [my resume](lazy to update the link)
 
 <br><br>
 
