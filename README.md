@@ -1,15 +1,13 @@
-<h2 align="center">Hi 👋</h2>
+<h2 align="center">Hi 👋 , I am Antwa</h2>
 
 ###
 
-<div align="center">
+<br clear="both">
+
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Antwa-sensei253&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Antwa-sensei253&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
-
-###
-
-<img align="right" height="150" src="https://giffiles.alphacoders.com/112/112917.gif"  />
 
 ###
 
@@ -45,6 +43,12 @@
 
 ###
 
+<br clear="both">
+
+<img align="right" height="150" src="https://giffiles.alphacoders.com/112/112917.gif"  />
+
+###
+
 <div align="left">
   <a href="discordapp.com/users/444658276102176771" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
@@ -57,4 +61,10 @@
   </a>
 </div>
 
+###
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Antwa-sensei253/Antwa-sensei253/output/snake.svg" alt="Snake animation" />
+
+###
