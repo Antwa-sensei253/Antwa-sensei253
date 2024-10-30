@@ -62,9 +62,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Antwa-sensei253/Antwa-sensei253/output/snake.svg" alt="Snake animation" />
-
-###
