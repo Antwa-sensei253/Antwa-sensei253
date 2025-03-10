@@ -1,17 +1,14 @@
 ## ⚡ About Me:  
+<img align="right" height="150" src="https://giffiles.alphacoders.com/112/112917.gif" />
+
 🔹 Software Engineering  
 🔹 Machine Learning & AI  
 💻 Backend Developer (Django, .NET)  
 🎮 Game Developer (Unity, C#)  
 📚 Software Engineering Student  
 
-
 ## 🌐 Socials:  
-<br clear="both">
-
-<img align="right" height="150" src="https://giffiles.alphacoders.com/112/112917.gif"  />
-
-###[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmed-elsayed-8b9aa6234)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmed-elsayed-8b9aa6234)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Antwa-sensei253)  
 
 ## 💻 Tech Stack:  
