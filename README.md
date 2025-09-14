@@ -7,6 +7,8 @@
 🎮 Game Developer (Unity, C#)  
 📚 Software Engineering Student  
 
+---
+
 ## 🌐 Socials:  
 <p>
   <a href="https://linkedin.com/in/ahmed-elsayed-8b9aa6234">
@@ -20,8 +22,7 @@
 
 ## 💻 Tech Stack:  
 <p align="center">
-<!-- C# -->
-<!-- C# -->
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" alt="C#"/>
 
 <!-- .NET -->
@@ -40,7 +41,6 @@
 
 </p>
 
----
 
 ### 🔥 GitHub Stats
 
@@ -55,6 +55,7 @@
 - [View Resume](https://limewire.com/d/LXLkm#SmgiIR1MfI)
 
 ---
+
 
 
 
