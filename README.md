@@ -1,22 +1,19 @@
 
 <table width="100%">
   <tr>
-    <td colspan="2" align="center">
-      <h1>👨‍💻 <a href="https://www.linkedin.com/in/ahmed-elsayed-8b9aa6234/">Ahmed Elsayed</a> – Backend Web Developer</h1>
+    <td width="50%" valign="middle">
+      <h1 style="margin:0">👨‍💻 <a href="https://www.linkedin.com/in/ahmed-elsayed-8b9aa6234/">Ahmed Elsayed</a></h1>
+      <div style="margin-top:8px;">
+        <a href="https://www.linkedin.com/in/ahmed-elsayed-8b9aa6234/">
+          <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn"/>
+        </a>
+      </div>
     </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top" align="center">
-      <a href="https://www.linkedin.com/in/ahmed-elsayed-8b9aa6234/">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn"/>
-      </a>
-    </td>
-    <td width="50%" valign="top" align="center">
+    <td width="50%" valign="middle" align="center">
       <img src="https://giffiles.alphacoders.com/112/112917.gif" alt="gif" height="150"/>
     </td>
   </tr>
 </table>
-
 
 ---
 
@@ -57,6 +54,7 @@
 - [View Resume](https://limewire.com/d/LXLkm#SmgiIR1MfI)
 
 ---
+
 
 
 
