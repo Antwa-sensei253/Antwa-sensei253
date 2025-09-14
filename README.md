@@ -1,10 +1,5 @@
-c## ⚡ About Me:  
-<img align="right" height="150" src="https://giffiles.alphacoders.com/112/112917.gif" />
 
-🔹 Software Engineering  
-🔹 Machine Learning & AI  
-💻 Backend Developer (Django, .NET)  
-🎮 Game Developer (Unity, C#)  
+
 
 ## 🌐 Socials:  
 <p>
@@ -14,6 +9,8 @@ c## ⚡ About Me:
   <a href="https://github.com/Antwa-sensei253">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+  <img align="right" height="150" src="https://giffiles.alphacoders.com/112/112917.gif" />
+
 </p>
 
 ## 💻 Tech Stack:  
@@ -53,6 +50,7 @@ c## ⚡ About Me:
 - [View Resume](https://limewire.com/d/LXLkm#SmgiIR1MfI)
 
 ---
+
 
 
 
