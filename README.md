@@ -16,6 +16,8 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
+---
+
 ## 💻 Tech Stack:  
 <p align="center">
 <!-- C# -->
@@ -53,6 +55,7 @@
 - [View Resume](https://limewire.com/d/LXLkm#SmgiIR1MfI)
 
 ---
+
 
 
 
