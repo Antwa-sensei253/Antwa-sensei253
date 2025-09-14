@@ -1,19 +1,22 @@
 
-# 👨‍💻 [Ahmed Elsayed] – Backend Web Developer
+<table width="100%">
+  <tr>
+    <td colspan="2" align="center">
+      <h1>👨‍💻 <a href="https://www.linkedin.com/in/ahmed-elsayed-8b9aa6234/">Ahmed Elsayed</a> – Backend Web Developer</h1>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <a href="https://www.linkedin.com/in/ahmed-elsayed-8b9aa6234/">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn"/>
+      </a>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <img src="https://giffiles.alphacoders.com/112/112917.gif" alt="gif" height="150"/>
+    </td>
+  </tr>
+</table>
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  
-  <div>
-    <a href="https://www.linkedin.com/in/ahmed-elsayed-8b9aa6234/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" />
-    </a>
-  </div>
-
-  <div>
-    <img height="150" src="https://giffiles.alphacoders.com/112/112917.gif" />
-  </div>
-
-</div>
 
 ---
 
@@ -54,6 +57,7 @@
 - [View Resume](https://limewire.com/d/LXLkm#SmgiIR1MfI)
 
 ---
+
 
 
 
