@@ -4,9 +4,8 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/ahmed-elsayed-8b9aa6234/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" />
-  </a>
     <img align="right" height="150" src="https://giffiles.alphacoders.com/112/112917.gif" />
-
+  </a>
 </p>
 
 ---
@@ -48,6 +47,7 @@
 - [View Resume](https://limewire.com/d/LXLkm#SmgiIR1MfI)
 
 ---
+
 
 
 
