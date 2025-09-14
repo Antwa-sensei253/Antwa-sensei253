@@ -25,11 +25,13 @@ c## ⚡ About Me:
 <!-- .NET -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="50" alt=".NET"/>
 
+<!-- Python -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" alt="Python"/>
+
 <!-- Django -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="50" alt="Django"/>
 
-<!-- Python -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" alt="Python"/>
+
 
 <!-- React -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" alt="React"/>
@@ -51,6 +53,7 @@ c## ⚡ About Me:
 - [View Resume](https://limewire.com/d/LXLkm#SmgiIR1MfI)
 
 ---
+
 
 
 
