@@ -1,17 +1,11 @@
-<!-- Title -->
-<h1 align="center">👨‍💻 Ahmed Elsayed</h1>
-<h3 align="center">Backend Web Developer</h3>
-
-<!-- Social + GIF side by side -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/ahmed-elsayed-8b9aa6234/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn"/>
+<p>
+  <a href="https://linkedin.com/in/ahmed-elsayed-8b9aa6234">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <!-- Add more icons here -->
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <!-- spacing -->
-  <img src="https://giffiles.alphacoders.com/112/112917.gif" alt="gif" height="150" align="right"/>
+  <a href="https://github.com/Antwa-sensei253">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
-
 ---
 
 ## 💻 Tech Stack:  
@@ -51,6 +45,7 @@
 - [View Resume](https://limewire.com/d/LXLkm#SmgiIR1MfI)
 
 ---
+
 
 
 
