@@ -17,21 +17,21 @@ c## ⚡ About Me:
 </p>
 
 ## 💻 Tech Stack:  
-<p>
+<p align="center">
 <!-- C# -->
-<img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/csharp.svg" width="40" alt="C# logo"/>
-
-<!-- .NET -->
-<img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/dotnet.svg" width="40" alt=".NET logo"/>
-
-<!-- Django -->
-<img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/django.svg" width="40" alt="Django logo"/>
-
-<!-- Python -->
-<img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/python.svg" width="40" alt="Python logo"/>
-
-<!-- React -->
-<img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/react.svg" width="40" alt="React logo"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/csharp.svg" width="40" alt="C# logo"/>
+  
+  <!-- .NET -->
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/dotnet.svg" width="40" alt=".NET logo"/>
+  
+  <!-- Django -->
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/django.svg" width="40" alt="Django logo"/>
+  
+  <!-- Python -->
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/python.svg" width="40" alt="Python logo"/>
+  
+  <!-- React -->
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/react.svg" width="40" alt="React logo"/>
 
 </p>
 
@@ -50,6 +50,7 @@ c## ⚡ About Me:
 - [View Resume](https://limewire.com/d/LXLkm#SmgiIR1MfI)
 
 ---
+
 
 
 
