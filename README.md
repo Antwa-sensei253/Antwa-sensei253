@@ -18,10 +18,21 @@ c## ⚡ About Me:
 
 ## 💻 Tech Stack:  
 <p>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" alt="C#"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" alt="Git"/>
+<!-- C# -->
+<img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/csharp.svg" width="40" alt="C# logo"/>
+
+<!-- .NET -->
+<img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/dotnet.svg" width="40" alt=".NET logo"/>
+
+<!-- Django -->
+<img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/django.svg" width="40" alt="Django logo"/>
+
+<!-- Python -->
+<img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/python.svg" width="40" alt="Python logo"/>
+
+<!-- React -->
+<img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/react.svg" width="40" alt="React logo"/>
+
 </p>
 
 ---
@@ -39,6 +50,7 @@ c## ⚡ About Me:
 - [View Resume](https://limewire.com/d/LXLkm#SmgiIR1MfI)
 
 ---
+
 
 
 
