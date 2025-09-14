@@ -7,7 +7,7 @@
 🎮 Game Developer (Unity, C#)  
 📚 Software Engineering Student  
 
-
+<br>
 ## 🌐 Socials:  
 <p>
   <a href="https://linkedin.com/in/ahmed-elsayed-8b9aa6234">
@@ -54,6 +54,7 @@
 - [View Resume](https://limewire.com/d/LXLkm#SmgiIR1MfI)
 
 ---
+
 
 
 
