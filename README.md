@@ -1,26 +1,26 @@
+<!-- Title -->
+<h1 align="center">👨‍💻 Ahmed Elsayed</h1>
+<h3 align="center">Backend Web Developer</h3>
 
-<table width="100%">
-  <!-- Title row -->
-  <tr>
-    <td colspan="2" align="center">
-      <h1>👨‍💻 Ahmed Elsayed</h1>
-      <h3>Backend Web Developer</h3>
-    </td>
-  </tr>
+<!-- Social + GIF -->
+<div>
+  <!-- Left: socials -->
+  <div align="center" style="float: left; width: 50%;">
+    <a href="https://www.linkedin.com/in/ahmed-elsayed-8b9aa6234/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn"/>
+    </a>
+    <!-- Add more icons side by side if you want -->
+  </div>
 
-  <!-- Social + GIF row -->
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <a href="https://www.linkedin.com/in/ahmed-elsayed-8b9aa6234/">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn"/>
-      </a>
-      <!-- you can add more icons here -->
-    </td>
-    <td width="50%" align="center" valign="top">
-      <img src="https://giffiles.alphacoders.com/112/112917.gif" alt="gif" height="150"/>
-    </td>
-  </tr>
-</table>
+  <!-- Right: gif -->
+  <div align="center" style="float: right; width: 50%;">
+    <img src="https://giffiles.alphacoders.com/112/112917.gif" alt="gif" height="150"/>
+  </div>
+</div>
+
+<!-- Clear floats -->
+<div style="clear: both;"></div>
+
 
 ---
 
@@ -61,6 +61,7 @@
 - [View Resume](https://limewire.com/d/LXLkm#SmgiIR1MfI)
 
 ---
+
 
 
 
