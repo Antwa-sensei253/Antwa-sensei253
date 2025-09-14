@@ -7,7 +7,6 @@
 🎮 Game Developer (Unity, C#)  
 📚 Software Engineering Student  
 
----
 
 ## 🌐 Socials:  
 <p>
@@ -55,6 +54,7 @@
 - [View Resume](https://limewire.com/d/LXLkm#SmgiIR1MfI)
 
 ---
+
 
 
 
