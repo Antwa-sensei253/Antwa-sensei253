@@ -2,25 +2,15 @@
 <h1 align="center">👨‍💻 Ahmed Elsayed</h1>
 <h3 align="center">Backend Web Developer</h3>
 
-<!-- Social + GIF -->
-<div>
-  <!-- Left: socials -->
-  <div align="center" style="float: left; width: 50%;">
-    <a href="https://www.linkedin.com/in/ahmed-elsayed-8b9aa6234/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn"/>
-    </a>
-    <!-- Add more icons side by side if you want -->
-  </div>
-
-  <!-- Right: gif -->
-  <div align="center" style="float: right; width: 50%;">
-    <img src="https://giffiles.alphacoders.com/112/112917.gif" alt="gif" height="150"/>
-  </div>
-</div>
-
-<!-- Clear floats -->
-<div style="clear: both;"></div>
-
+<!-- Social + GIF side by side -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/ahmed-elsayed-8b9aa6234/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <!-- Add more icons here -->
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <!-- spacing -->
+  <img src="https://giffiles.alphacoders.com/112/112917.gif" alt="gif" height="150" align="right"/>
+</p>
 
 ---
 
@@ -61,6 +51,7 @@
 - [View Resume](https://limewire.com/d/LXLkm#SmgiIR1MfI)
 
 ---
+
 
 
 
