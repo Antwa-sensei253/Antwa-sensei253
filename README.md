@@ -5,7 +5,6 @@
 🔹 Machine Learning & AI  
 💻 Backend Developer (Django, .NET)  
 🎮 Game Developer (Unity, C#)  
-📚 Software Engineering Student  
 
 ## 🌐 Socials:  
 <p>
@@ -22,5 +21,21 @@
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
+
+---
+
+### 🔥 GitHub Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Antwa-sensei253&theme=github-dark&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+---
+
+### 📄 Resume
+
+- [View Resume](https://limewire.com/d/LXLkm#SmgiIR1MfI)
+
+---
 
 
