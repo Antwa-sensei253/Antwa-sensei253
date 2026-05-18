@@ -10,10 +10,8 @@
 
 - 💻 **Full-Stack Developer** — Django REST, ASP.NET Core, React
 - 🤖 **AI Integration** — LLM pipelines, Groq, Gemini, DistilBERT
-- 🎮 **Game Developer** — Unity, C#
 - 🎓 **CS Graduate** @ Egyptian E-learning University (2025)
-- 🏫 **ITI Scholar** — BI-infused CRM Track (2026)
-- 🚀 **Currently building** — [CYRA](https://github.com/Antwa-sensei253/Cyra), an AI-powered resume platform
+- 🏫 **ITI Scholar** — Professional Development & BI-infused CRM Track (2026)
 
 <br clear="right"/>
 
@@ -44,9 +42,9 @@
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### 🧠 [CYRA — AI Resume Platform](https://github.com/Antwa-sensei253/Cyra)
+### [CYRA — AI Resume Platform](https://github.com/Antwa-sensei253/Cyra)
 > React · Django REST · PostgreSQL · Groq · Gemini API
 
 A live freelance platform on **Nafezly** that matches users with jobs via AI-driven resume analysis. Features keyword-matrix extraction, ATS compliance scoring, and a dual-LLM fallback pipeline (Gemini → Groq DistilBERT) ensuring 99% uptime. Deployed on Vercel + Render with OAuth2/JWT auth.
