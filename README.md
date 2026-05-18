@@ -50,7 +50,7 @@
 
 ### 📄 Resume
 
-- [View Resume](https://limewire.com/d/LXLkm#SmgiIR1MfI)
+- [View Resume]([https://limewire.com/d/LXLkm#SmgiIR1MfI](https://drive.google.com/file/d/1CYvNCbQo3Xf6nzcEJgpNdDVLYvuEtBKb/view?usp=sharing))
 
 ---
 
