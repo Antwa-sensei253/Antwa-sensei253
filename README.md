@@ -18,6 +18,9 @@
 <br clear="right"/>
 
 ---
+## 📄 Resume
+
+[![View Resume](https://img.shields.io/badge/View%20Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1CYvNCbQo3Xf6nzcEJgpNdDVLYvuEtBKb/view?usp=sharing)
 
 ## 🌐 Socials
 
@@ -114,6 +117,3 @@ Full-featured discussion forum with threaded comments, complete auth (register/l
 
 ---
 
-## 📄 Resume
-
-[![View Resume](https://img.shields.io/badge/View%20Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1CYvNCbQo3Xf6nzcEJgpNdDVLYvuEtBKb/view?usp=sharing)
