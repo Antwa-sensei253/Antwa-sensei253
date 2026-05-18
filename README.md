@@ -105,8 +105,8 @@ Full-featured discussion forum with threaded comments, complete auth (register/l
 ## 🔥 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Antwa-sensei253&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="160" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Antwa-sensei253&layout=compact&theme=github_dark&hide_border=true" height="160" alt="Top Languages"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=Antwa-sensei253&show_icons=true&theme=github_dark&hide_border=true" height="160" alt="GitHub Stats"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Antwa-sensei253&layout=compact&theme=github_dark&hide_border=true" height="160" alt="Top Languages"/>
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Antwa-sensei253&theme=github-dark&hide_border=true" alt="GitHub Streak"/>
