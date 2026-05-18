@@ -18,7 +18,7 @@
 ---
 ## 📄 Resume
 
-[![View Resume](https://img.shields.io/badge/View%20Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1CYvNCbQo3Xf6nzcEJgpNdDVLYvuEtBKb/view?usp=sharing)
+[![View Resume](https://img.shields.io/badge/View%20Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/14jV13Ph4ABGOEgWiYydrjJMSM4NTmEsl/view?usp=sharing)
 
 ## 🌐 Socials
 
